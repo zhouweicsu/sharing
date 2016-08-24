@@ -3,7 +3,7 @@ transition: slide
 
 ---
 
-![title](/content/imgs/houdini.png)
+![title](content/imgs/houdini.png)
 
 ---
 
@@ -39,12 +39,12 @@ fragment: true
 fragment: true
 
 ## 我要新增一个 CSS 特性！
-![新增 CSS 特性](/content/imgs/CSS-new-property.png)
+![新增 CSS 特性](content/imgs/CSS-new-property.png)
 
 ---
 
 ## 我要新增一个 JavaScript 特性！
-![新增 JavaScript 特性](/content/imgs/JavaScript-new-property.png)
+![新增 JavaScript 特性](content/imgs/JavaScript-new-property.png)
 
 ---
 
@@ -53,13 +53,13 @@ fragment: true
 ---
 
 ## 浏览器工作原理
-![浏览器工作原理](/content/imgs/Webkit-work.png)
+![浏览器工作原理](content/imgs/Webkit-work.png)
 
 ---
 
 ## 我们能控制的部分
 
-![我们能控制的部分](/content/imgs/Webkit-control.png)
+![我们能控制的部分](content/imgs/Webkit-control.png)
 
 
 ---
@@ -83,10 +83,10 @@ fragment: true
 ## 浏览器每个阶段与 Houdini API 的对应关系
 
 <div class="houdini-api">
-	<img style="top:1rem;left:0;width:60rem" src="/content/imgs/Webkit-work.png">
-	<img class="fragment" style="top:12.3rem;width:20%;left:7.2rem;" src="/content/imgs/properties&values.png">
-	<img class="fragment" style="top:8.5rem;width:42%;left:24rem;" src="/content/imgs/worklets.png">
-	<img class="fragment" style="top:-1rem;width:36%;left:30.4rem;" src="/content/imgs/otherapi.png">
+	<img style="top:1rem;left:0;width:60rem" src="content/imgs/Webkit-work.png">
+	<img class="fragment" style="top:12.3rem;width:20%;left:7.2rem;" src="content/imgs/properties&values.png">
+	<img class="fragment" style="top:8.5rem;width:42%;left:24rem;" src="content/imgs/worklets.png">
+	<img class="fragment" style="top:-1rem;width:36%;left:30.4rem;" src="content/imgs/otherapi.png">
 </div>
 
 <style>
