@@ -321,10 +321,10 @@ registerPaint('circle', class {
 ---
 ## DEMOS
 
-### [circle](/demo/houdini-examples/paint-worklet/circle)
-### [ripple](/demo/houdini-examples/paint-worklet/ripple)
-### [qr-code](/demo/houdini-examples/paint-worklet/qr-code)
-### [chat-bubble](/demo/houdini-examples/paint-worklet/chat-bubble)
+### [circle](houdini-examples/paint-worklet/circle)
+### [ripple](houdini-examples/paint-worklet/ripple)
+### [qr-code](houdini-examples/paint-worklet/qr-code)
+### [chat-bubble](houdini-examples/paint-worklet/chat-bubble)
 
 <<---- 【注意：】这些 DEMO 只能在 `Chrome Canary` 里面运行，且需要打开 `chrome://flags` 中的 `Experimental Web Platform features` ---->>
 
