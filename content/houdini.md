@@ -179,7 +179,7 @@ fragment:true
 ##  CSS Typed OM
 
 ```javascript
-var height = elem.styleMap.('height');
+var height = elem.styleMap.get('height');
 // {value: 100, type: 'px'}
 elem.styleMap.set('height', height.multiply(2));
 // {value: 200, type: 'px'}
