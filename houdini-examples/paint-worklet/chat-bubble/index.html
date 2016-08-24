@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>chat bubble</title>
+</head>
+
+<style>
+.chat-args1 {
+	--fill-color: darksalmon;
+    --radius: 20;
+    --shadow: yes;
+    --caret-size: 17;
+    --caret-offset: 100;
+}
+
+.chat-args2 {
+	--fill-color: #6a5;
+}
+
+.chat {
+	border-image-source: paint(chat);
+	border-image-slice: fill 0;
+	border-image-outset: 30px;
+	margin: 10em;
+	padding: 2em;
+	max-width: 200px;
+	line-height: 1.4em;
+	text-align: center;
+	color: #fff;
+}
+</style>
+<script>
+	window.paintWorklet.import('paintworklet.js');
+</script>
+<body>
+
+<div class="chat chat-args1">
+	Hello, world!
+</div>
+
+<div class="chat chat-args2">
+	Bye, world!
+</div>
+</body>
+
+<script type="text/javascript">
+	/*document.registerProperty({
+		name: '--fill-color',
+		syntax: '<color>'
+	});
+	document.registerProperty({
+		name: '--radius',
+		syntax: '<length>',
+		default: '20'
+	});
+	document.registerProperty({
+		name: '--caret-size',
+		syntax: '<length>',
+		default: '0'
+	});
+	document.registerProperty({
+		name: '--caret-offset',
+		syntax: '<length>',
+		default: '0'
+	});
+	document.registerProperty({
+		name: '--shadow',
+		syntax: '*',
+		default: 'no'
+	});*/
+</script>
+
+</html>
