@@ -5,7 +5,7 @@ transition: slide
 
 # ![title](content/imgs/vue-logo.png)
 
-# Vue.js 源码分析（一	）
+# Vue.js 源码分析(一)
 ### 响应式原理简介
 
 ---
@@ -26,22 +26,10 @@ transition: slide
 
 ## 基础知识
 
-* MVVM
 * Object.defineProperty()
 * 观察者模式
 * Watcher、Dep、Observer
 * Vue 生命周期
-
----
-
-### MVVM (Model-View-ViewModel)
-
-### ![mvvm](content/imgs/mvvm-light.png)
-
-mvvm类框架的实现原理不复杂，大致如下：
-* 模板分析得到依赖的属性
-* 通过某种变动监测手段监测这些依赖的属性
-* 当属性变动的时候，触发相应的directive的处理逻辑即可
 
 
 ---
