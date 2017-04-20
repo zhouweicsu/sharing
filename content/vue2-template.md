@@ -55,7 +55,7 @@ abstract syntax tree
 ## VNode
 
 ## Vue 2.0 模板渲染过程
-![Vue 2.0 模板渲染过程](/content/imgs/vue-template.svg)
+![Vue 2.0 模板渲染过程](content/imgs/vue-template.svg)
 
 ---
 ## compile
@@ -158,7 +158,7 @@ export function compile (
 
 ## patch
 
-![Vue 2.0 模板渲染过程](/content/imgs/vue-template.svg)
+![Vue 2.0 模板渲染过程](content/imgs/vue-template.svg)
 
 
 ---
@@ -178,7 +178,7 @@ export function compile (
 
 ## 总结
 
-![Vue 2.0 模板渲染过程](/content/imgs/vue-template.svg)
+![Vue 2.0 模板渲染过程](content/imgs/vue-template.svg)
 
 ---
 
