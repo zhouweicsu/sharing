@@ -172,7 +172,7 @@ export function compile (
 ---
 ## 对比算法
 
-![](/content/imgs/diff.png)
+![](content/imgs/diff.png)
 
 ---
 
